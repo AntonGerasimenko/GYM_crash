@@ -1,0 +1,14 @@
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.getyourmap.demoapp.SampleSelectActivity { <init>(); }
+-keep class com.getyourmap.demoapp.MapViewActivity { <init>(); }
+-keep class com.getyourmap.demoapp.DisplayImageActivity { <init>(); }
+-keep class com.getyourmap.demoapp.DownloadActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

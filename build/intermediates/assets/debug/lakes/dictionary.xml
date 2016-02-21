@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<lake>
+		<id>1</id>
+		<name>Вилейское вдх</name>
+		<isFree>true</isFree>
+		<lat>54.487080</lat>
+		<lng>27.137515</lng>
+		<path>1.geojson</path>
+	</lake>
+	<lake>
+		<id>2</id>
+		<name>Вишневское оз</name>
+		<isFree>true</isFree>
+		<lat>54.723477</lat>
+		<lng>26.568203</lng>
+		<path>2.geojson</path>
+	</lake>
+	<lake>
+		<id>3</id>
+		<name>Вяча вдх</name>
+		<isFree>true</isFree>
+		<lat>54.066909</lat>
+		<lng>27.589687</lng>
+		<path>3.geojson</path>
+	</lake>
+	<lake>
+		<id>4</id>
+		<name>Заславское вдх (Минское море)</name>
+		<isFree>true</isFree>
+		<lat>53.982940</lat>
+		<lng>27.381737</lng>
+		<path>4.geojson</path>
+	</lake>
+	<lake>
+		<id>5</id>
+		<name>Краснослободское вдх</name>
+		<isFree>true</isFree>
+		<lat>52.825995</lat>
+		<lng>26.992250</lng>
+		<path>5.geojson</path>
+	</lake>
+	<lake>
+		<id>6</id>
+		<name>Криница вдх</name>
+		<isFree>true</isFree>
+		<lat>53.958064</lat>
+		<lng>27.404525</lng>
+		<path>6.geojson</path>
+	</lake>
+	<lake>
+		<id>7</id>
+		<name>Локтыши вдх</name>
+		<isFree>true</isFree>
+		<lat>52.794717</lat>
+		<lng>26.770377</lng>
+		<path>7.geojson</path>
+	</lake>
+	<lake>
+		<id>8</id>
+		<name>Лосвидо оз</name>
+		<isFree>true</isFree>
+		<lat>55.378543</lat>
+		<lng>30.029326</lng>
+		<path>8.geojson</path>
+	</lake>
+	<lake>
+		<id>9</id>
+		<name>Лукомское оз</name>
+		<isFree>true</isFree>
+		<lat>54.668084</lat>
+		<lng>29.084732</lng>
+		<path>9.geojson</path>
+	</lake>
+	<lake>
+		<id>10</id>
+		<name>Любанское вдх</name>
+		<isFree>true</isFree>
+		<lat>52.893793</lat>
+		<lng>28.018827</lng>
+		<path>10.geojson</path>
+	</lake>
+	<lake>
+		<id>11</id>
+		<name>Мядель оз</name>
+		<isFree>true</isFree>
+		<lat>54.937637</lat>
+		<lng>26.857860</lng>
+		<path>11.geojson</path>
+	</lake>
+	<lake>
+		<id>12</id>
+		<name>Мястро оз</name>
+		<isFree>true</isFree>
+		<lat>54.867737</lat>
+		<lng>26.885809</lng>
+		<path>12.geojson</path>
+	</lake>
+	<lake>
+		<id>13</id>
+		<name>Освейское оз</name>
+		<isFree>true</isFree>
+		<lat>56.041430</lat>
+		<lng>28.164943</lng>
+		<path>13.geojson</path>
+	</lake>
+	<lake>
+		<id>14</id>
+		<name>Петровичское вдх</name>
+		<isFree>true</isFree>
+		<lat>53.868858</lat>
+		<lng>27.951343</lng>
+		<path>14.geojson</path>
+	</lake>
+	<lake>
+		<id>15</id>
+		<name>Селява оз</name>
+		<isFree>true</isFree>
+		<lat>54.552605</lat>
+		<lng>29.151470</lng>
+		<path>15.geojson</path>
+	</lake>
+	<lake>
+		<id>16</id>
+		<name>Сергеевское оз</name>
+		<isFree>true</isFree>
+		<lat>53.514426</lat>
+		<lng>27.758825</lng>
+		<path>16.geojson</path>
+	</lake>
+	<lake>
+		<id>17</id>
+		<name>Солигорское вдх</name>
+		<isFree>true</isFree>
+		<lat>52.783966</lat>
+		<lng>27.569246</lng>
+		<path>17.geojson</path>
+	</lake>
+	<lake>
+		<id>18</id>
+		<name>Струсто оз</name>
+		<isFree>true</isFree>
+		<lat>55.699228</lat>
+		<lng>27.048512</lng>
+		<path>18.geojson</path>
+	</lake>
+	<lake>
+		<id>19</id>
+		<name>Яново оз</name>
+		<isFree>true</isFree>
+		<lat>55.278683</lat>
+		<lng>28.823110</lng>
+		<path>19.geojson</path>
+	</lake>
+	<lake>
+		<id>20</id>
+		<name>Червоное оз</name>
+		<isFree>true</isFree>
+		<lat>52.406626</lat>
+		<lng>27.964067</lng>
+		<path>20.geojson</path>
+	</lake>
+	<lake>
+		<id>21</id>
+		<name>Выгонощанское оз</name>
+		<isFree>true</isFree>
+		<lat>52.681138</lat>
+		<lng>25.949535</lng>
+		<path>21.geojson</path>
+	</lake>
+	<lake>
+		<id>22</id>
+		<name>Бобровичское оз</name>
+		<isFree>true</isFree>
+		<lat>52.630115</lat>
+		<lng>25.782080</lng>
+		<path>22.geojson</path>
+	</lake>
+	<lake>
+		<id>23</id>
+		<name>Воробьи оз</name>
+		<isFree>true</isFree>
+		<lat>54.833424</lat>
+		<lng>26.323543</lng>
+		<path>23.geojson</path>
+	</lake>
+	<lake>
+		<id>24</id>
+		<name>Губеза оз</name>
+		<isFree>true</isFree>
+		<lat>54.842321</lat>
+		<lng>26.303844</lng>
+		<path>24.geojson</path>
+	</lake>	
+	<lake>
+		<id>25</id>
+		<name>Еди оз</name>
+		<isFree>true</isFree>
+		<lat>54.848758</lat>
+		<lng>26.290133</lng>
+		<path>25.geojson</path>
+	</lake>
+	<lake>
+		<id>26</id>
+		<name>Голодянка оз</name>
+		<isFree>true</isFree>
+		<lat>54.860173</lat>
+		<lng>26.271737</lng>
+		<path>26.geojson</path>
+	</lake>
+	<lake>
+		<id>27</id>
+		<name>Голубино оз</name>
+		<isFree>true</isFree>
+		<lat>54.863546</lat>
+		<lng>26.259806</lng>
+		<path>27.geojson</path>
+	</lake>
+	<lake>
+		<id>28</id>
+		<name>Тумское оз</name>
+		<isFree>true</isFree>
+		<lat>54.874416</lat>
+		<lng>26.236632</lng>
+		<path>28.geojson</path>
+	</lake>
+	<lake>
+		<id>29</id>
+		<name>Кайминское оз</name>
+		<isFree>true</isFree>
+		<lat>54.886455</lat>
+		<lng>26.213686</lng>
+		<path>29.geojson</path>
+	</lake>
+	<lake>
+		<id>30</id>
+		<name>Золовское оз</name>
+		<isFree>true</isFree>
+		<lat>54.888551</lat>
+		<lng>26.196292</lng>
+		<path>30.geojson</path>
+	</lake>
+	<lake>
+		<id>31</id>
+		<name>Туровейское оз</name>
+		<isFree>true</isFree>
+		<lat>54.891660</lat>
+		<lng>26.177253</lng>
+		<path>31.geojson</path>
+	</lake>
+	<lake>
+		<id>32</id>
+		<name>Белое оз (Островецкий р-н)</name>
+		<isFree>true</isFree>
+		<lat>54.898926</lat>
+		<lng>26.162269</lng>
+		<path>32.geojson</path>
+	</lake>	
+	<lake>
+		<id>33</id>
+		<name>Клевей оз</name>
+		<isFree>true</isFree>
+		<lat>54.903994</lat>
+		<lng>26.146638</lng>
+		<path>33.geojson</path>
+	</lake>
+	<lake>
+		<id>34</id>
+		<name>Баранское оз</name>
+		<isFree>true</isFree>
+		<lat>54.927639</lat>
+		<lng>26.097383</lng>
+		<path>34.geojson</path>
+	</lake>
+	<lake>
+		<id>35</id>
+		<name>Вера оз</name>
+		<isFree>true</isFree>
+		<lat>55.667758</lat>
+		<lng>27.175761</lng>
+		<path>35.geojson</path>
+	</lake>
+	<lake>
+		<id>36</id>
+		<name>Янели оз</name>
+		<isFree>true</isFree>
+		<lat>55.742614</lat>
+		<lng>27.428969</lng>
+		<path>36.geojson</path>
+	</lake>
+	<lake>
+		<id>37</id>
+		<name>Ильменок оз</name>
+		<isFree>true</isFree>
+		<lat>55.680212</lat>
+		<lng>27.189085</lng>
+		<path>37.geojson</path>
+	</lake>
+	<lake>
+		<id>38</id>
+		<name>Константиново оз</name>
+		<isFree>true</isFree>
+		<lat>55.767339</lat>
+		<lng>27.498567</lng>
+		<path>38.geojson</path>
+	</lake>
+	<lake>
+		<id>39</id>
+		<name>Оплисо оз</name>
+		<isFree>true</isFree>
+		<lat>55.673928</lat>
+		<lng>27.293861</lng>
+		<path>39.geojson</path>
+	</lake>
+	<lake>
+		<id>40</id>
+		<name>Глубовщина оз</name>
+		<isFree>true</isFree>
+		<lat>55.684054</lat>
+		<lng>27.305098</lng>
+		<path>40.geojson</path>
+	</lake>	
+	<lake>
+		<id>41</id>
+		<name>Ричи оз</name>
+		<isFree>true</isFree>
+		<lat>55.696011</lat>
+		<lng>26.714258</lng>
+		<path>41.geojson</path>
+	</lake>
+	<lake>
+		<id>42</id>
+		<name>Глуба оз</name>
+		<isFree>true</isFree>
+		<lat>55.961156</lat>
+		<lng>29.325010</lng>
+		<path>42.geojson</path>
+	</lake>
+	<lake>
+		<id>43</id>
+		<name>Дрыса оз</name>
+		<isFree>true</isFree>
+		<lat>55.944914</lat>
+		<lng>29.366122</lng>
+		<path>43.geojson</path>
+	</lake>
+	<lake>
+		<id>44</id>
+		<name>Дзекало оз</name>
+		<isFree>true</isFree>
+		<lat>55.950730</lat>
+		<lng>29.383074</lng>
+		<path>44.geojson</path>
+	</lake>
+	<lake>
+		<id>45</id>
+		<name>Оптито оз</name>
+		<isFree>true</isFree>
+		<lat>55.909749</lat>
+		<lng>29.325965</lng>
+		<path>45.geojson</path>
+	</lake>
+	<lake>
+		<id>46</id>
+		<name>Волобо оз</name>
+		<isFree>true</isFree>
+		<lat>55.898674</lat>
+		<lng>29.360690</lng>
+		<path>46.geojson</path>
+	</lake>
+	<lake>
+		<id>47</id>
+		<name>Ножницы оз</name>
+		<isFree>true</isFree>
+		<lat>55.882472</lat>
+		<lng>29.385407</lng>
+		<path>47.geojson</path>
+	</lake>
+	<lake>
+		<id>48</id>
+		<name>Пролобно оз</name>
+		<isFree>true</isFree>
+		<lat>55.848790</lat>
+		<lng>29.394784</lng>
+		<path>48.geojson</path>
+	</lake>	
+	<lake>
+		<id>49</id>
+		<name>Синьша оз</name>
+		<isFree>true</isFree>
+		<lat>55.882047</lat>
+		<lng>29.415062</lng>
+		<path>49.geojson</path>
+	</lake>
+	<lake>
+		<id>50</id>
+		<name>Донское оз</name>
+		<isFree>true</isFree>
+		<lat>55.875993</lat>
+		<lng>29.410014</lng>
+		<path>50.geojson</path>
+	</lake>
+	<lake>
+		<id>51</id>
+		<name>Нещердо оз</name>
+		<isFree>true</isFree>
+		<lat>55.879526</lat>
+		<lng>29.069892</lng>
+		<path>51.geojson</path>
+	</lake>
+	<lake>
+		<id>52</id>
+		<name>Бродно оз</name>
+		<isFree>true</isFree>
+		<lat>55.935266</lat>
+		<lng>29.022204</lng>
+		<path>52.geojson</path>
+	</lake>
+	<lake>
+		<id>53</id>
+		<name>Долгое оз (Россонский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.881022</lat>
+		<lng>29.089419</lng>
+		<path>53.geojson</path>
+	</lake>
+	<lake>
+		<id>54</id>
+		<name>Круглое оз</name>
+		<isFree>true</isFree>
+		<lat>55.873734</lat>
+		<lng>29.093373</lng>
+		<path>54.geojson</path>
+	</lake>
+	<lake>
+		<id>55</id>
+		<name>Усвечье оз</name>
+		<isFree>true</isFree>
+		<lat>56.006988</lat>
+		<lng>29.030020</lng>
+		<path>55.geojson</path>
+	</lake>
+	<lake>
+		<id>56</id>
+		<name>Городно оз</name>
+		<isFree>true</isFree>
+		<lat>55.974949</lat>
+		<lng>29.065767</lng>
+		<path>56.geojson</path>
+	</lake>	
+	<lake>
+		<id>57</id>
+		<name>Ямно оз</name>
+		<isFree>true</isFree>
+		<lat>55.983738</lat>
+		<lng>29.233482</lng>
+		<path>57.geojson</path>
+	</lake>
+	<lake>
+		<id>58</id>
+		<name>Вальковское оз</name>
+		<isFree>true</isFree>
+		<lat>55.975811</lat>
+		<lng>28.718734</lng>
+		<path>58.geojson</path>
+	</lake>
+	<lake>
+		<id>59</id>
+		<name>Черепитское оз</name>
+		<isFree>true</isFree>
+		<lat>55.965196</lat>
+		<lng>28.761220</lng>
+		<path>59.geojson</path>
+	</lake>
+	<lake>
+		<id>60</id>
+		<name>Липовец оз</name>
+		<isFree>true</isFree>
+		<lat>55.969807</lat>
+		<lng>28.746972</lng>
+		<path>60.geojson</path>
+	</lake>
+	<lake>
+		<id>61</id>
+		<name>Мылинское оз</name>
+		<isFree>true</isFree>
+		<lat>55.969135</lat>
+		<lng>28.803191</lng>
+		<path>61.geojson</path>
+	</lake>
+	<lake>
+		<id>62</id>
+		<name>Лисно оз</name>
+		<isFree>true</isFree>
+		<lat>56.066042</lat>
+		<lng>28.412983</lng>
+		<path>62.geojson</path>
+	</lake>
+	<lake>
+		<id>63</id>
+		<name>Палик оз</name>
+		<isFree>true</isFree>
+		<lat>54.515506</lat>
+		<lng>28.426630</lng>
+		<path>63.geojson</path>
+	</lake>
+	<lake>
+		<id>64</id>
+		<name>Катилово оз</name>
+		<isFree>true</isFree>
+		<lat>55.584366</lat>
+		<lng>27.589019</lng>
+		<path>64.geojson</path>
+	</lake>	
+	<lake>
+		<id>65</id>
+		<name>Трубинец оз</name>
+		<isFree>true</isFree>
+		<lat>55.618461</lat>
+		<lng>27.697714</lng>
+		<path>65.geojson</path>
+	</lake>
+	<lake>
+		<id>66</id>
+		<name>Миорское оз</name>
+		<isFree>true</isFree>
+		<lat>55.616481</lat>
+		<lng>27.618841</lng>
+		<path>66.geojson</path>
+	</lake>
+	<lake>
+		<id>67</id>
+		<name>Грецкое оз</name>
+		<isFree>true</isFree>
+		<lat>55.629459</lat>
+		<lng>27.743837</lng>
+		<path>67.geojson</path>
+	</lake>
+	<lake>
+		<id>68</id>
+		<name>Черес оз</name>
+		<isFree>true</isFree>
+		<lat>55.641184</lat>
+		<lng>27.726585</lng>
+		<path>68.geojson</path>
+	</lake>
+	<lake>
+		<id>69</id>
+		<name>Иново оз</name>
+		<isFree>true</isFree>
+		<lat>55.573828</lat>
+		<lng>27.243231</lng>
+		<path>69.geojson</path>
+	</lake>
+	<lake>
+		<id>70</id>
+		<name>Укля оз</name>
+		<isFree>true</isFree>
+		<lat>55.584929</lat>
+		<lng>27.318560</lng>
+		<path>70.geojson</path>
+	</lake>
+	<lake>
+		<id>71</id>
+		<name>Обстерно оз</name>
+		<isFree>true</isFree>
+		<lat>55.608213</lat>
+		<lng>27.375280</lng>
+		<path>71.geojson</path>
+	</lake>
+	<lake>
+		<id>72</id>
+		<name>Луша оз</name>
+		<isFree>true</isFree>
+		<lat>55.586390</lat>
+		<lng>27.383492</lng>
+		<path>72.geojson</path>
+	</lake>	
+	<lake>
+		<id>73</id>
+		<name>Важа оз</name>
+		<isFree>true</isFree>
+		<lat>55.589483</lat>
+		<lng>27.409191</lng>
+		<path>73.geojson</path>
+	</lake>
+	<lake>
+		<id>74</id>
+		<name>Нобисто оз</name>
+		<isFree>true</isFree>
+		<lat>55.640667</lat>
+		<lng>27.424093</lng>
+		<path>74.geojson</path>
+	</lake>
+	<lake>
+		<id>75</id>
+		<name>Ставок оз</name>
+		<isFree>true</isFree>
+		<lat>55.579933</lat>
+		<lng>26.683474</lng>
+		<path>75.geojson</path>
+	</lake>
+	<lake>
+		<id>76</id>
+		<name>Оболе оз</name>
+		<isFree>true</isFree>
+		<lat>55.567390</lat>
+		<lng>26.698923</lng>
+		<path>76.geojson</path>
+	</lake>
+	<lake>
+		<id>77</id>
+		<name>Богино оз</name>
+		<isFree>true</isFree>
+		<lat>55.397400</lat>
+		<lng>26.825716</lng>
+		<path>77.geojson</path>
+	</lake>
+	<lake>
+		<id>78</id>
+		<name>Долгое оз (Браславский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.458915</lat>
+		<lng>26.783100</lng>
+		<path>78.geojson</path>
+	</lake>
+	<lake>
+		<id>79</id>
+		<name>Загорное оз</name>
+		<isFree>true</isFree>
+		<lat>55.448401</lat>
+		<lng>26.769838</lng>
+		<path>79.geojson</path>
+	</lake>
+	<lake>
+		<id>80</id>
+		<name>Высокое оз</name>
+		<isFree>true</isFree>
+		<lat>55.437958</lat>
+		<lng>26.797906</lng>
+		<path>80.geojson</path>
+	</lake>	
+	<lake>
+		<id>81</id>
+		<name>Болойсо оз</name>
+		<isFree>true</isFree>
+		<lat>55.668630</lat>
+		<lng>27.062712</lng>
+		<path>81.geojson</path>
+	</lake>
+	<lake>
+		<id>82</id>
+		<name>Плутинок оз</name>
+		<isFree>true</isFree>
+		<lat>55.680609</lat>
+		<lng>27.068484</lng>
+		<path>82.geojson</path>
+	</lake>
+	<lake>
+		<id>83</id>
+		<name>Боснице оз</name>
+		<isFree>true</isFree>
+		<lat>55.689406</lat>
+		<lng>27.070450</lng>
+		<path>83.geojson</path>
+	</lake>
+	<lake>
+		<id>84</id>
+		<name>Снуды оз</name>
+		<isFree>true</isFree>
+		<lat>55.752653</lat>
+		<lng>27.058605</lng>
+		<path>84.geojson</path>
+	</lake>
+	<lake>
+		<id>85</id>
+		<name>Войсо оз</name>
+		<isFree>true</isFree>
+		<lat>55.672493</lat>
+		<lng>27.096928</lng>
+		<path>85.geojson</path>
+	</lake>
+	<lake>
+		<id>86</id>
+		<name>Недрово оз</name>
+		<isFree>true</isFree>
+		<lat>55.678105</lat>
+		<lng>27.134153</lng>
+		<path>86.geojson</path>
+	</lake>
+	<lake>
+		<id>87</id>
+		<name>Потех оз</name>
+		<isFree>true</isFree>
+		<lat>55.685841</lat>
+		<lng>27.163961</lng>
+		<path>87.geojson</path>
+	</lake>
+	<lake>
+		<id>88</id>
+		<name>Дзярбо оз</name>
+		<isFree>true</isFree>
+		<lat>55.666308</lat>
+		<lng>27.127084</lng>
+		<path>88.geojson</path>
+	</lake>	
+	<lake>
+		<id>89</id>
+		<name>Неспиж оз</name>
+		<isFree>true</isFree>
+		<lat>55.654431</lat>
+		<lng>27.107088</lng>
+		<path>89.geojson</path>
+	</lake>
+	<lake>
+		<id>90</id>
+		<name>Дубро оз</name>
+		<isFree>true</isFree>
+		<lat>55.771593</lat>
+		<lng>27.212765</lng>
+		<path>90.geojson</path>
+	</lake>
+	<lake>
+		<id>91</id>
+		<name>Ельня оз</name>
+		<isFree>true</isFree>
+		<lat>55.755546</lat>
+		<lng>27.197497</lng>
+		<path>91.geojson</path>
+	</lake>
+	<lake>
+		<id>92</id>
+		<name>Обабье оз</name>
+		<isFree>true</isFree>
+		<lat>55.755858</lat>
+		<lng>27.226853</lng>
+		<path>92.geojson</path>
+	</lake>
+	<lake>
+		<id>93</id>
+		<name>Медведно оз</name>
+		<isFree>true</isFree>
+		<lat>55.766908</lat>
+		<lng>27.245451</lng>
+		<path>93.geojson</path>
+	</lake>
+	<lake>
+		<id>94</id>
+		<name>Берца оз</name>
+		<isFree>true</isFree>
+		<lat>55.784677</lat>
+		<lng>27.239667</lng>
+		<path>94.geojson</path>
+	</lake>
+	<lake>
+		<id>95</id>
+		<name>Езерище оз</name>
+		<isFree>true</isFree>
+		<lat>55.852105</lat>
+		<lng>30.021222</lng>
+		<path>95.geojson</path>
+	</lake>
+	<lake>
+		<id>96</id>
+		<name>Сосно оз (Витебский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.348443</lat>
+		<lng>30.072702</lng>
+		<path>96.geojson</path>
+	</lake>	
+	<lake>
+		<id>97</id>
+		<name>Первищенское оз</name>
+		<isFree>true</isFree>
+		<lat>55.414833</lat>
+		<lng>29.935995</lng>
+		<path>97.geojson</path>
+	</lake>
+	<lake>
+		<id>98</id>
+		<name>Сосновское оз</name>
+		<isFree>true</isFree>
+		<lat>55.293728</lat>
+		<lng>29.495176</lng>
+		<path>98.geojson</path>
+	</lake>
+	<lake>
+		<id>99</id>
+		<name>Мошно оз</name>
+		<isFree>true</isFree>
+		<lat>55.260952</lat>
+		<lng>29.577701</lng>
+		<path>99.geojson</path>
+	</lake>
+	<lake>
+		<id>100</id>
+		<name>Добеевское оз</name>
+		<isFree>true</isFree>
+		<lat>55.244928</lat>
+		<lng>29.527959</lng>
+		<path>100.geojson</path>
+	</lake>
+	<lake>
+		<id>101</id>
+		<name>Круглик оз</name>
+		<isFree>true</isFree>
+		<lat>55.252954</lat>
+		<lng>29.607308</lng>
+		<path>101.geojson</path>
+	</lake>
+	<lake>
+		<id>102</id>
+		<name>Лесковичи оз</name>
+		<isFree>true</isFree>
+		<lat>55.248512</lat>
+		<lng>29.621425</lng>
+		<path>102.geojson</path>
+	</lake>
+	<lake>
+		<id>103</id>
+		<name>Будовесть оз</name>
+		<isFree>true</isFree>
+		<lat>55.206580</lat>
+		<lng>29.658775</lng>
+		<path>103.geojson</path>
+	</lake>
+	<lake>
+		<id>104</id>
+		<name>Сосно оз (Шумилинский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.176562</lat>
+		<lng>29.685036</lng>
+		<path>104.geojson</path>
+	</lake>	
+	<lake>
+		<id>105</id>
+		<name>Лезвинка оз</name>
+		<isFree>true</isFree>
+		<lat>55.156068</lat>
+		<lng>29.714004</lng>
+		<path>105.geojson</path>
+	</lake>
+	<lake>
+		<id>106</id>
+		<name>Мурожницкое оз</name>
+		<isFree>true</isFree>
+		<lat>55.256861</lat>
+		<lng>29.772067</lng>
+		<path>106.geojson</path>
+	</lake>
+	<lake>
+		<id>107</id>
+		<name>Зароновское оз</name>
+		<isFree>true</isFree>
+		<lat>55.309591</lat>
+		<lng>29.845539</lng>
+		<path>107.geojson</path>
+	</lake>
+	<lake>
+		<id>108</id>
+		<name>Княжное оз</name>
+		<isFree>true</isFree>
+		<lat>55.291642</lat>
+		<lng>29.912130</lng>
+		<path>108.geojson</path>
+	</lake>
+	<lake>
+		<id>109</id>
+		<name>Летцы оз</name>
+		<isFree>true</isFree>
+		<lat>55.200414</lat>
+		<lng>29.962875</lng>
+		<path>109.geojson</path>
+	</lake>
+	<lake>
+		<id>110</id>
+		<name>Шевино оз</name>
+		<isFree>true</isFree>
+		<lat>55.192260</lat>
+		<lng>29.925437</lng>
+		<path>110.geojson</path>
+	</lake>
+	<lake>
+		<id>111</id>
+		<name>Вышедское оз</name>
+		<isFree>true</isFree>
+		<lat>55.617483</lat>
+		<lng>30.150868</lng>
+		<path>111.geojson</path>
+	</lake>
+	<lake>
+		<id>112</id>
+		<name>Березнянское оз</name>
+		<isFree>true</isFree>
+		<lat>55.695617</lat>
+		<lng>30.118284</lng>
+		<path>112.geojson</path>
+	</lake>	
+	<lake>
+		<id>113</id>
+		<name>Негро оз</name>
+		<isFree>true</isFree>
+		<lat>55.680163</lat>
+		<lng>30.108241</lng>
+		<path>113.geojson</path>
+	</lake>
+	<lake>
+		<id>114</id>
+		<name>Звонково оз</name>
+		<isFree>true</isFree>
+		<lat>55.686245</lat>
+		<lng>30.122891</lng>
+		<path>114.geojson</path>
+	</lake>
+	<lake>
+		<id>115</id>
+		<name>Сесито оз</name>
+		<isFree>true</isFree>
+		<lat>55.737630</lat>
+		<lng>30.499339</lng>
+		<path>115.geojson</path>
+	</lake>
+	<lake>
+		<id>116</id>
+		<name>Чернясто оз</name>
+		<isFree>true</isFree>
+		<lat>55.699725</lat>
+		<lng>30.455863</lng>
+		<path>116.geojson</path>
+	</lake>
+	<lake>
+		<id>117</id>
+		<name>Сосно оз (Городокский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.682356</lat>
+		<lng>30.436541</lng>
+		<path>117.geojson</path>
+	</lake>
+	<lake>
+		<id>118</id>
+		<name>Межа оз</name>
+		<isFree>true</isFree>
+		<lat>55.671273</lat>
+		<lng>30.430544</lng>
+		<path>118.geojson</path>
+	</lake>
+	<lake>
+		<id>119</id>
+		<name>Танай оз</name>
+		<isFree>true</isFree>
+		<lat>55.565127</lat>
+		<lng>30.372147</lng>
+		<path>119.geojson</path>
+	</lake>
+	<lake>
+        <id>120</id>
+        <name>Тиосто оз</name>
+        <isFree>true</isFree>
+        <lat>55.593762</lat>
+        <lng>30.495815</lng>
+        <path>120.geojson</path>
+    </lake>
+    <lake>
+        <id>121</id>
+        <name>Ведринское оз</name>
+        <isFree>true</isFree>
+        <lat>55.583285</lat>
+        <lng>30.515728</lng>
+        <path>121.geojson</path>
+    </lake>
+    <lake>
+        <id>122</id>
+        <name>Медесно оз</name>
+        <isFree>true</isFree>
+        <lat>55.578336</lat>
+        <lng>30.439682</lng>
+        <path>122.geojson</path>
+    </lake>
+    <lake>
+        <id>123</id>
+        <name>Плав оз</name>
+        <isFree>true</isFree>
+        <lat>55.500841</lat>
+        <lng>30.414394</lng>
+        <path>123.geojson</path>
+    </lake>
+    <lake>
+        <id>124</id>
+        <name>Вослепно оз</name>
+        <isFree>true</isFree>
+        <lat>55.494763</lat>
+        <lng>30.349686</lng>
+        <path>124.geojson</path>
+    </lake>
+    <lake>
+        <id>125</id>
+        <name>Арлейко оз</name>
+        <isFree>true</isFree>
+        <lat>55.479698</lat>
+        <lng>30.384122</lng>
+        <path>125.geojson</path>
+    </lake>
+    <lake>
+        <id>126</id>
+        <name>Вымно оз</name>
+        <isFree>true</isFree>
+        <lat>55.442648</lat>
+        <lng>30.332547</lng>
+        <path>126.geojson</path>
+    </lake>
+    <lake>
+        <id>127</id>
+        <name>Пренц оз</name>
+        <isFree>true</isFree>
+        <lat>55.473344</lat>
+        <lng>30.328543</lng>
+        <path>127.geojson</path>
+    </lake>
+	<lake>
+		<id>128</id>
+		<name>Медзозол оз</name>
+		<isFree>true</isFree>
+		<lat>54.949267</lat>
+		<lng>28.051425</lng>
+		<path>128.geojson</path>
+	</lake>
+	<lake>
+		<id>129</id>
+		<name>Берштовское оз</name>
+		<isFree>true</isFree>
+		<lat>53.858651</lat>
+		<lng>24.374156</lng>
+		<path>129.geojson</path>
+	</lake>
+	<lake>
+		<id>130</id>
+		<name>Долгое оз (Гродненский р-н)</name>
+		<isFree>true</isFree>
+		<lat>53.814685</lat>
+		<lng>24.348511</lng>
+		<path>130.geojson</path>
+	</lake>
+	<lake>
+		<id>131</id>
+		<name>Селявское оз</name>
+		<isFree>true</isFree>
+		<lat>55.820500</lat>
+		<lng>28.781015</lng>
+		<path>131.geojson</path>
+	</lake>
+	<lake>
+		<id>132</id>
+		<name>Рогозянское оз</name>
+		<isFree>true</isFree>
+		<lat>51.826513</lat>
+		<lng>23.726399</lng>
+		<path>132.geojson</path>
+	</lake>
+	<lake>
+		<id>133</id>
+		<name>Олтуш оз</name>
+		<isFree>true</isFree>
+		<lat>51.691606</lat>
+		<lng>23.955323</lng>
+		<path>133.geojson</path>
+	</lake>
+	<lake>
+		<id>134</id>
+		<name>Ореховское оз</name>
+		<isFree>true</isFree>
+		<lat>51.649780</lat>
+		<lng>23.933618</lng>
+		<path>134.geojson</path>
+	</lake>
+	<lake>
+		<id>135</id>
+		<name>Луковское оз</name>
+		<isFree>true</isFree>
+		<lat>51.892602</lat>
+		<lng>24.267168</lng>
+		<path>135.geojson</path>
+	</lake>
+	<lake>
+		<id>136</id>
+		<name>Любань оз</name>
+		<isFree>true</isFree>
+		<lat>51.986096</lat>
+		<lng>24.613198</lng>
+		<path>136.geojson</path>
+	</lake>
+	<lake>
+		<id>137</id>
+		<name>Песочное оз</name>
+		<isFree>true</isFree>
+		<lat>51.973544</lat>
+		<lng>25.473608</lng>
+		<path>137.geojson</path>
+	</lake>
+	<lake>
+		<id>138</id>
+		<name>Завищанское оз</name>
+		<isFree>true</isFree>
+		<lat>51.997534</lat>
+		<lng>25.695603</lng>
+		<path>138.geojson</path>
+	</lake>
+	<lake>
+		<id>139</id>
+		<name>Безуменник оз</name>
+		<isFree>true</isFree>
+		<lat>51.934899</lat>
+		<lng>25.672976</lng>
+		<path>139.geojson</path>
+	</lake>
+	<lake>
+		<id>140</id>
+		<name>Карасин оз</name>
+		<isFree>true</isFree>
+		<lat>51.931838</lat>
+		<lng>25.661805</lng>
+		<path>140.geojson</path>
+	</lake>
+	<lake>
+		<id>141</id>
+		<name>Белое оз (Ивановский р-н)</name>
+		<isFree>true</isFree>
+		<lat>51.938003</lat>
+		<lng>25.686973</lng>
+		<path>141.geojson</path>
+	</lake>
+	<lake>
+		<id>142</id>
+		<name>Кончицкое оз</name>
+		<isFree>true</isFree>
+		<lat>52.059707</lat>
+		<lng>25.828285</lng>
+		<path>142.geojson</path>
+	</lake>
+	<lake>
+		<id>143</id>
+		<name>Белое оз (Березовский р-н)</name>
+		<isFree>true</isFree>
+		<lat>52.433491</lat>
+		<lng>25.150248</lng>
+		<path>143.geojson</path>
+	</lake>
+	<lake>
+		<id>144</id>
+		<name>Черное оз (Березовский р-н)</name>
+		<isFree>true</isFree>
+		<lat>52.477519</lat>
+		<lng>25.245629</lng>
+		<path>144.geojson</path>
+	</lake>
+		<lake>
+		<id>145</id>
+		<name>Скупое оз</name>
+		<isFree>true</isFree>
+		<lat>52.334451</lat>
+		<lng>25.624008</lng>
+		<path>145.geojson</path>
+	</lake>
+	<lake>
+		<id>146</id>
+		<name>Мульное оз</name>
+		<isFree>true</isFree>
+		<lat>52.366259</lat>
+		<lng>25.626980</lng>
+		<path>146.geojson</path>
+	</lake>
+	<lake>
+		<id>147</id>
+		<name>Вульковское оз</name>
+		<isFree>true</isFree>
+		<lat>52.538516</lat>
+		<lng>25.867718</lng>
+		<path>147.geojson</path>
+	</lake>
+	<lake>
+		<id>148</id>
+		<name>Соминское оз</name>
+		<isFree>true</isFree>
+		<lat>52.535689</lat>
+		<lng>25.931258</lng>
+		<path>148.geojson</path>
+	</lake>
+	<lake>
+		<id>149</id>
+		<name>Опса оз</name>
+		<isFree>true</isFree>
+		<lat>55.550500</lat>
+		<lng>26.822116</lng>
+		<path>149.geojson</path>
+	</lake>
+	<lake>
+		<id>150</id>
+		<name>Пеликаны оз</name>
+		<isFree>true</isFree>
+		<lat>55.523335</lat>
+		<lng>26.756086</lng>
+		<path>150.geojson</path>
+	</lake>
+	<lake>
+		<id>151</id>
+		<name>Илгайцы оз</name>
+		<isFree>true</isFree>
+		<lat>55.571690</lat>
+		<lng>26.788746</lng>
+		<path>151.geojson</path>
+	</lake>
+	<lake>
+		<id>152</id>
+		<name>Даубле оз</name>
+		<isFree>true</isFree>
+		<lat>55.586188</lat>
+		<lng>26.852103</lng>
+		<path>152.geojson</path>
+	</lake>
+	<lake>
+		<id>153</id>
+		<name>Погоща оз</name>
+		<isFree>true</isFree>
+		<lat>55.556928</lat>
+		<lng>26.933162</lng>
+		<path>153.geojson</path>
+	</lake>
+	<lake>
+		<id>154</id>
+		<name>Муйса оз</name>
+		<isFree>true</isFree>
+		<lat>55.617034</lat>
+		<lng>26.721116</lng>
+		<path>154.geojson</path>
+	</lake>
+	<lake>
+		<id>155</id>
+		<name>Муйсата оз</name>
+		<isFree>true</isFree>
+		<lat>55.634429</lat>
+		<lng>26.701317</lng>
+		<path>155.geojson</path>
+	</lake>
+	<lake>
+		<id>156</id>
+		<name>Каменка оз</name>
+		<isFree>true</isFree>
+		<lat>55.789064</lat>
+		<lng>27.156481</lng>
+		<path>156.geojson</path>
+	</lake>
+	<lake>
+		<id>157</id>
+		<name>Закаменка оз</name>
+		<isFree>true</isFree>
+		<lat>55.785383</lat>
+		<lng>27.148964</lng>
+		<path>157.geojson</path>
+	</lake>
+	<lake>
+		<id>158</id>
+		<name>Дубро оз</name>
+		<isFree>true</isFree>
+		<lat>55.771355</lat>
+		<lng>27.212500</lng>
+		<path>158.geojson</path>
+	</lake>
+	<lake>
+		<id>159</id>
+		<name>Белое-Капляровское оз (Верхнедвинский р-н)</name>
+		<isFree>true</isFree>
+		<lat>56.050863</lat>
+		<lng>28.335548</lng>
+		<path>159.geojson</path>
+	</lake>
+	<lake>
+		<id>160</id>
+		<name>Страдное оз</name>
+		<isFree>true</isFree>
+		<lat>56.016176</lat>
+		<lng>28.388126</lng>
+		<path>160.geojson</path>
+	</lake>
+	<lake>
+		<id>161</id>
+		<name>Бредно оз</name>
+		<isFree>true</isFree>
+		<lat>55.997819</lat>
+		<lng>28.483640</lng>
+		<path>161.geojson</path>
+	</lake>
+	<lake>
+		<id>162</id>
+		<name>Белое-Доброплесы оз (Россонский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.993406</lat>
+		<lng>28.466531</lng>
+		<path>162.geojson</path>
+	</lake>
+	<lake>
+		<id>163</id>
+		<name>Изубрица оз</name>
+		<isFree>true</isFree>
+		<lat>56.022574</lat>
+		<lng>28.475821</lng>
+		<path>163.geojson</path>
+	</lake>
+	<lake>
+		<id>164</id>
+		<name>Белое-Юховское оз (Россонский р-н)</name>
+		<isFree>true</isFree>
+		<lat>56.051947</lat>
+		<lng>28.477179</lng>
+		<path>164.geojson</path>
+	</lake>
+	<lake>
+		<id>165</id>
+		<name>Беленец оз</name>
+		<isFree>true</isFree>
+		<lat>56.064188</lat>
+		<lng>28.482418</lng>
+		<path>165.geojson</path>
+	</lake>
+	<lake>
+		<id>166</id>
+		<name>Селявское оз</name>
+		<isFree>true</isFree>
+		<lat>55.819901</lat>
+		<lng>28.781219</lng>
+		<path>166.geojson</path>
+	</lake>
+	<lake>
+		<id>167</id>
+		<name>Убежо оз</name>
+		<isFree>true</isFree>
+		<lat>55.804516</lat>
+		<lng>28.772292</lng>
+		<path>167.geojson</path>
+	</lake>
+	<lake>
+		<id>168</id>
+		<name>Россомачинское оз</name>
+		<isFree>true</isFree>
+		<lat>55.830016</lat>
+		<lng>28.896290</lng>
+		<path>168.geojson</path>
+	</lake>
+	<lake>
+		<id>169</id>
+		<name>Глыбочено оз</name>
+		<isFree>true</isFree>
+		<lat>55.842587</lat>
+		<lng>29.018218</lng>
+		<path>169.geojson</path>
+	</lake>
+	<lake>
+		<id>170</id>
+		<name>Семененки оз</name>
+		<isFree>true</isFree>
+		<lat>55.829332</lat>
+		<lng>29.044590</lng>
+		<path>170.geojson</path>
+	</lake>
+	<lake>
+		<id>171</id>
+		<name>Межно оз</name>
+		<isFree>true</isFree>
+		<lat>55.814066</lat>
+		<lng>29.051033</lng>
+		<path>171.geojson</path>
+	</lake>
+	<lake>
+		<id>172</id>
+		<name>Велье оз</name>
+		<isFree>true</isFree>
+		<lat>55.890278</lat>
+		<lng>28.669559</lng>
+		<path>172.geojson</path>
+	</lake>
+	<lake>
+		<id>173</id>
+		<name>Россоно оз</name>
+		<isFree>true</isFree>
+		<lat>55.898418</lat>
+		<lng>28.790809</lng>
+		<path>173.geojson</path>
+	</lake>
+	<lake>
+		<id>174</id>
+		<name>Валуйское оз</name>
+		<isFree>true</isFree>
+		<lat>55.874808</lat>
+		<lng>28.902986</lng>
+		<path>174.geojson</path>
+	</lake>
+	<lake>
+		<id>175</id>
+		<name>Межево оз</name>
+		<isFree>true</isFree>
+		<lat>55.946027</lat>
+		<lng>28.932688</lng>
+		<path>175.geojson</path>
+	</lake>
+	<lake>
+		<id>176</id>
+		<name>Захбейка оз</name>
+		<isFree>true</isFree>
+		<lat>55.416714</lat>
+		<lng>30.368894</lng>
+		<path>176.geojson</path>
+	</lake>
+	<lake>
+		<id>177</id>
+		<name>Костовье оз</name>
+		<isFree>true</isFree>
+		<lat>55.432804</lat>
+		<lng>30.419094</lng>
+		<path>177.geojson</path>
+	</lake>
+	<lake>
+		<id>178</id>
+		<name>Задрач оз</name>
+		<isFree>true</isFree>
+		<lat>55.777736</lat>
+		<lng>30.272121</lng>
+		<path>178.geojson</path>
+	</lake>
+	<lake>
+		<id>179</id>
+		<name>Ужо оз</name>
+		<isFree>true</isFree>
+		<lat>55.828180</lat>
+		<lng>30.154240</lng>
+		<path>179.geojson</path>
+	</lake>
+	<lake>
+		<id>180</id>
+		<name>Завесно оз</name>
+		<isFree>true</isFree>
+		<lat>55.830570</lat>
+		<lng>30.237418</lng>
+		<path>180.geojson</path>
+	</lake>
+	<lake>
+		<id>181</id>
+		<name>Зачерное оз</name>
+		<isFree>true</isFree>
+		<lat>55.337846</lat>
+		<lng>29.744201</lng>
+		<path>181.geojson</path>
+	</lake>
+	<lake>
+		<id>182</id>
+		<name>Луговое оз</name>
+		<isFree>true</isFree>
+		<lat>55.453288</lat>
+		<lng>29.965962</lng>
+		<path>182.geojson</path>
+	</lake>
+	<lake>
+		<id>183</id>
+		<name>Кошо оз</name>
+		<isFree>true</isFree>
+		<lat>55.502375</lat>
+		<lng>29.901137</lng>
+		<path>183.geojson</path>
+	</lake>
+	<lake>
+		<id>184</id>
+		<name>Черново оз</name>
+		<isFree>true</isFree>
+		<lat>55.578682</lat>
+		<lng>29.856934</lng>
+		<path>184.geojson</path>
+	</lake>
+	<lake>
+		<id>185</id>
+		<name>Берново оз</name>
+		<isFree>true</isFree>
+		<lat>55.643206</lat>
+		<lng>29.794911</lng>
+		<path>185.geojson</path>
+	</lake>
+	<lake>
+		<id>186</id>
+		<name>Верино оз</name>
+		<isFree>true</isFree>
+		<lat>55.601291</lat>
+		<lng>29.722833</lng>
+		<path>186.geojson</path>
+	</lake>
+	<lake>
+		<id>187</id>
+		<name>Оболь оз</name>
+		<isFree>true</isFree>
+		<lat>55.669808</lat>
+		<lng>29.704196</lng>
+		<path>187.geojson</path>
+	</lake>
+	<lake>
+		<id>188</id>
+		<name>Черновка оз</name>
+		<isFree>true</isFree>
+		<lat>55.707642</lat>
+		<lng>29.880678</lng>
+		<path>188.geojson</path>
+	</lake>
+	<lake>
+		<id>189</id>
+		<name>Белое-Сурмино оз (Городокский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.827165</lat>
+		<lng>29.896412</lng>
+		<path>189.geojson</path>
+	</lake>
+	<lake>
+		<id>190</id>
+		<name>Черное оз (Городокский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.835745</lat>
+		<lng>29.878630</lng>
+		<path>190.geojson</path>
+	</lake>
+	<lake>
+		<id>191</id>
+		<name>Исса оз</name>
+		<isFree>true</isFree>
+		<lat>55.813331</lat>
+		<lng>29.844302</lng>
+		<path>191.geojson</path>
+	</lake>
+	<lake>
+		<id>192</id>
+		<name>Свино оз</name>
+		<isFree>true</isFree>
+		<lat>55.710991</lat>
+		<lng>29.584787</lng>
+		<path>192.geojson</path>
+	</lake>
+	<lake>
+		<id>193</id>
+		<name>Осмота оз</name>
+		<isFree>true</isFree>
+		<lat>55.689710</lat>
+		<lng>29.608991</lng>
+		<path>193.geojson</path>
+	</lake>
+	<lake>
+		<id>194</id>
+		<name>Дубок оз</name>
+		<isFree>true</isFree>
+		<lat>55.571988</lat>
+		<lng>28.653749</lng>
+		<path>194.geojson</path>
+	</lake>
+	<lake>
+		<id>195</id>
+		<name>Званое оз (Полоцкий р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.619467</lat>
+		<lng>28.600414</lng>
+		<path>195.geojson</path>
+	</lake>
+	<lake>
+		<id>196</id>
+		<name>Белое оз (Азино - Полоцкий р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.622407</lat>
+		<lng>28.629327</lng>
+		<path>196.geojson</path>
+	</lake>
+	<lake>
+		<id>197</id>
+		<name>Дохнаровское оз</name>
+		<isFree>true</isFree>
+		<lat>55.609223</lat>
+		<lng>28.739412</lng>
+		<path>197.geojson</path>
+	</lake>
+	<lake>
+		<id>198</id>
+		<name>Белое оз (Гендики - Полоцкий р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.574720</lat>
+		<lng>28.796520</lng>
+		<path>198.geojson</path>
+	</lake>
+	<lake>
+		<id>199</id>
+		<name>Яковское оз</name>
+		<isFree>true</isFree>
+		<lat>55.733470</lat>
+		<lng>28.820328</lng>
+		<path>199.geojson</path>
+	</lake>
+	<lake>
+		<id>200</id>
+		<name>Мещецкое оз</name>
+		<isFree>true</isFree>
+		<lat>55.730183</lat>
+		<lng>28.799213</lng>
+		<path>200.geojson</path>
+	</lake>
+	<lake>
+		<id>201</id>
+		<name>Скоброе оз</name>
+		<isFree>true</isFree>
+		<lat>55.607922</lat>
+		<lng>29.041106</lng>
+		<path>201.geojson</path>
+	</lake>
+	<lake>
+		<id>202</id>
+		<name>Червятка оз</name>
+		<isFree>true</isFree>
+		<lat>55.555035</lat>
+		<lng>29.172241</lng>
+		<path>202.geojson</path>
+	</lake>
+	<lake>
+		<id>203</id>
+		<name>Лонно оз</name>
+		<isFree>true</isFree>
+		<lat>55.624944</lat>
+		<lng>28.974110</lng>
+		<path>203.geojson</path>
+	</lake>
+	<lake>
+		<id>204</id>
+		<name>Улогово оз</name>
+		<isFree>true</isFree>
+		<lat>55.572671</lat>
+		<lng>29.036723</lng>
+		<path>204.geojson</path>
+	</lake>
+	<lake>
+		<id>205</id>
+		<name>Страдань оз</name>
+		<isFree>true</isFree>
+		<lat>55.730491</lat>
+		<lng>29.083272</lng>
+		<path>205.geojson</path>
+	</lake>
+	<lake>
+		<id>206</id>
+		<name>Звериное оз</name>
+		<isFree>true</isFree>
+		<lat>55.745584</lat>
+		<lng>29.023411</lng>
+		<path>206.geojson</path>
+	</lake>
+	<lake>
+		<id>207</id>
+		<name>Глубочино оз</name>
+		<isFree>true</isFree>
+		<lat>55.766760</lat>
+		<lng>29.278382</lng>
+		<path>207.geojson</path>
+	</lake>
+	<lake>
+		<id>208</id>
+		<name>Дретунь оз</name>
+		<isFree>true</isFree>
+		<lat>55.689753</lat>
+		<lng>29.205211</lng>
+		<path>208.geojson</path>
+	</lake>
+	<lake>
+		<id>209</id>
+		<name>Измок оз</name>
+		<isFree>true</isFree>
+		<lat>55.710316</lat>
+		<lng>29.371551</lng>
+		<path>209.geojson</path>
+	</lake>
+	<lake>
+		<id>210</id>
+		<name>Ситно оз</name>
+		<isFree>true</isFree>
+		<lat>55.684823</lat>
+		<lng>29.422731</lng>
+		<path>210.geojson</path>
+	</lake>
+	<lake>
+		<id>211</id>
+		<name>Неклея оз</name>
+		<isFree>true</isFree>
+		<lat>55.641409</lat>
+		<lng>29.346752</lng>
+		<path>211.geojson</path>
+	</lake>
+	<lake>
+		<id>212</id>
+		<name>Жельцы оз</name>
+		<isFree>true</isFree>
+		<lat>55.616634</lat>
+		<lng>29.379979</lng>
+		<path>212.geojson</path>
+	</lake>
+	<lake>
+		<id>213</id>
+		<name>Званое оз (Городокский р-н)</name>
+		<isFree>true</isFree>
+		<lat>55.648953</lat>
+		<lng>29.518588</lng>
+		<path>213.geojson</path>
+	</lake>
+	<lake>
+		<id>214</id>
+		<name>Арлея оз</name>
+		<isFree>true</isFree>
+		<lat>55.636067</lat>
+		<lng>29.448659</lng>
+		<path>214.geojson</path>
+	</lake>
+	<lake>
+		<id>215</id>
+		<name>Белое Большое оз</name>
+		<isFree>true</isFree>
+		<lat>55.674902</lat>
+		<lng>29.538267</lng>
+		<path>215.geojson</path>
+	</lake>
+	
+</data>

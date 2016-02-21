@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\projects\getyourmaps\libs\GLMap.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f250fb96a909e96afd2f78592f05e4a1e0559379">
+        <dex dex="D:\Android\projects\getyourmaps\build\intermediates\pre-dexed\debug\GLMap-1833dac4cd04d024e65c4fba875e34a10048b711.jar" />
+    </item>
+    <item
+        jar="D:\Android\projects\getyourmaps\libs\protobuf-java-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="D:\Android\projects\getyourmaps\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1-181e8fc2b091dfdf4e674126d3b154c7d01cfb20.jar" />
+    </item>
+
+</items>
